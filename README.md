@@ -1,4 +1,4 @@
-🦀 Crab Hop
+#🦀 Crab Hop
 
 A fun and fast-paced 2D jumping game built with Python and Pygame.
 
